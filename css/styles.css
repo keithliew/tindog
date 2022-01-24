@@ -1,0 +1,12 @@
+/******Tag Selectors*******/
+h1 {
+  font-family: Montserrat-Thin;
+  size: 3rem;
+  line-height: 1.5;
+}
+
+
+/******ID Selectors*******/
+#title {
+  background-color: #ff4c68;
+}
